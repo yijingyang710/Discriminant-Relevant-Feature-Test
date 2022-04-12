@@ -1,6 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.cluster import MiniBatchKMeans, KMeans
 from lib_loss import cal_weighted_H
 from tqdm import tqdm
 
