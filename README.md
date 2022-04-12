@@ -3,3 +3,6 @@ Created by Yijing Yang, Wei Wang, Hongyu Fu and C.-C. Jay Kuo from University of
 
 ### Introduction
 This is an official implementation of our work [DFT/RFT feature selection](https://arxiv.org/pdf/2203.11924.pdf).
+
+### Contents
+* `feat_utils.py`: The function `feature_selection` is the main function for DFT-based feature selection.
